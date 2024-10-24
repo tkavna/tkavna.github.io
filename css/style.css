@@ -5,7 +5,7 @@
 .container{
     width: 800px;
     height: 100vh;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     margin: 0 auto;
 }
 .gallery-name{
@@ -18,7 +18,7 @@
     justify-content: space-around;
 }
 .gallery__item{
-    width: 150px;
+    width: 450px;
 
 }
 @media screen and (max-width:390px){
